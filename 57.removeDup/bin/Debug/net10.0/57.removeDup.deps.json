@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "57.removeDup/1.0.0": {
+        "runtime": {
+          "57.removeDup.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "57.removeDup/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

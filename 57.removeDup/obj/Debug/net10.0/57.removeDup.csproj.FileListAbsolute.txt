@@ -1,0 +1,14 @@
+D:\C#- level 2\57.removeDup\bin\Debug\net10.0\57.removeDup.exe
+D:\C#- level 2\57.removeDup\bin\Debug\net10.0\57.removeDup.deps.json
+D:\C#- level 2\57.removeDup\bin\Debug\net10.0\57.removeDup.runtimeconfig.json
+D:\C#- level 2\57.removeDup\bin\Debug\net10.0\57.removeDup.dll
+D:\C#- level 2\57.removeDup\bin\Debug\net10.0\57.removeDup.pdb
+D:\C#- level 2\57.removeDup\obj\Debug\net10.0\57.removeDup.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\57.removeDup\obj\Debug\net10.0\57.removeDup.AssemblyInfoInputs.cache
+D:\C#- level 2\57.removeDup\obj\Debug\net10.0\57.removeDup.AssemblyInfo.cs
+D:\C#- level 2\57.removeDup\obj\Debug\net10.0\57.removeDup.csproj.CoreCompileInputs.cache
+D:\C#- level 2\57.removeDup\obj\Debug\net10.0\57.removeDup.dll
+D:\C#- level 2\57.removeDup\obj\Debug\net10.0\refint\57.removeDup.dll
+D:\C#- level 2\57.removeDup\obj\Debug\net10.0\57.removeDup.pdb
+D:\C#- level 2\57.removeDup\obj\Debug\net10.0\57.removeDup.genruntimeconfig.cache
+D:\C#- level 2\57.removeDup\obj\Debug\net10.0\ref\57.removeDup.dll

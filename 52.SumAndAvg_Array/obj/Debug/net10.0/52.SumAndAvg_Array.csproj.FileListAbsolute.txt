@@ -1,0 +1,14 @@
+D:\C#- level 2\52.SumAndAvg_Array\bin\Debug\net10.0\52.SumAndAvg_Array.exe
+D:\C#- level 2\52.SumAndAvg_Array\bin\Debug\net10.0\52.SumAndAvg_Array.deps.json
+D:\C#- level 2\52.SumAndAvg_Array\bin\Debug\net10.0\52.SumAndAvg_Array.runtimeconfig.json
+D:\C#- level 2\52.SumAndAvg_Array\bin\Debug\net10.0\52.SumAndAvg_Array.dll
+D:\C#- level 2\52.SumAndAvg_Array\bin\Debug\net10.0\52.SumAndAvg_Array.pdb
+D:\C#- level 2\52.SumAndAvg_Array\obj\Debug\net10.0\52.SumAndAvg_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\52.SumAndAvg_Array\obj\Debug\net10.0\52.SumAndAvg_Array.AssemblyInfoInputs.cache
+D:\C#- level 2\52.SumAndAvg_Array\obj\Debug\net10.0\52.SumAndAvg_Array.AssemblyInfo.cs
+D:\C#- level 2\52.SumAndAvg_Array\obj\Debug\net10.0\52.SumAndAvg_Array.csproj.CoreCompileInputs.cache
+D:\C#- level 2\52.SumAndAvg_Array\obj\Debug\net10.0\52.SumAndAvg_Array.dll
+D:\C#- level 2\52.SumAndAvg_Array\obj\Debug\net10.0\refint\52.SumAndAvg_Array.dll
+D:\C#- level 2\52.SumAndAvg_Array\obj\Debug\net10.0\52.SumAndAvg_Array.pdb
+D:\C#- level 2\52.SumAndAvg_Array\obj\Debug\net10.0\52.SumAndAvg_Array.genruntimeconfig.cache
+D:\C#- level 2\52.SumAndAvg_Array\obj\Debug\net10.0\ref\52.SumAndAvg_Array.dll

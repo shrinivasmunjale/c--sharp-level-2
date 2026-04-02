@@ -1,0 +1,14 @@
+D:\C#- level 2\55.reversearr\bin\Debug\net10.0\55.reversearr.exe
+D:\C#- level 2\55.reversearr\bin\Debug\net10.0\55.reversearr.deps.json
+D:\C#- level 2\55.reversearr\bin\Debug\net10.0\55.reversearr.runtimeconfig.json
+D:\C#- level 2\55.reversearr\bin\Debug\net10.0\55.reversearr.dll
+D:\C#- level 2\55.reversearr\bin\Debug\net10.0\55.reversearr.pdb
+D:\C#- level 2\55.reversearr\obj\Debug\net10.0\55.reversearr.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\55.reversearr\obj\Debug\net10.0\55.reversearr.AssemblyInfoInputs.cache
+D:\C#- level 2\55.reversearr\obj\Debug\net10.0\55.reversearr.AssemblyInfo.cs
+D:\C#- level 2\55.reversearr\obj\Debug\net10.0\55.reversearr.csproj.CoreCompileInputs.cache
+D:\C#- level 2\55.reversearr\obj\Debug\net10.0\55.reversearr.dll
+D:\C#- level 2\55.reversearr\obj\Debug\net10.0\refint\55.reversearr.dll
+D:\C#- level 2\55.reversearr\obj\Debug\net10.0\55.reversearr.pdb
+D:\C#- level 2\55.reversearr\obj\Debug\net10.0\55.reversearr.genruntimeconfig.cache
+D:\C#- level 2\55.reversearr\obj\Debug\net10.0\ref\55.reversearr.dll

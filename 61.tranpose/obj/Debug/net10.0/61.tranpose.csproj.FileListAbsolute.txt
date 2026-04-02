@@ -1,0 +1,14 @@
+D:\C#- level 2\61.tranpose\bin\Debug\net10.0\61.tranpose.exe
+D:\C#- level 2\61.tranpose\bin\Debug\net10.0\61.tranpose.deps.json
+D:\C#- level 2\61.tranpose\bin\Debug\net10.0\61.tranpose.runtimeconfig.json
+D:\C#- level 2\61.tranpose\bin\Debug\net10.0\61.tranpose.dll
+D:\C#- level 2\61.tranpose\bin\Debug\net10.0\61.tranpose.pdb
+D:\C#- level 2\61.tranpose\obj\Debug\net10.0\61.tranpose.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\61.tranpose\obj\Debug\net10.0\61.tranpose.AssemblyInfoInputs.cache
+D:\C#- level 2\61.tranpose\obj\Debug\net10.0\61.tranpose.AssemblyInfo.cs
+D:\C#- level 2\61.tranpose\obj\Debug\net10.0\61.tranpose.csproj.CoreCompileInputs.cache
+D:\C#- level 2\61.tranpose\obj\Debug\net10.0\61.tranpose.dll
+D:\C#- level 2\61.tranpose\obj\Debug\net10.0\refint\61.tranpose.dll
+D:\C#- level 2\61.tranpose\obj\Debug\net10.0\61.tranpose.pdb
+D:\C#- level 2\61.tranpose\obj\Debug\net10.0\61.tranpose.genruntimeconfig.cache
+D:\C#- level 2\61.tranpose\obj\Debug\net10.0\ref\61.tranpose.dll

@@ -1,0 +1,14 @@
+D:\C#- level 2\56.margeArr\obj\Debug\net10.0\56.margeArr.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\56.margeArr\obj\Debug\net10.0\56.margeArr.AssemblyInfoInputs.cache
+D:\C#- level 2\56.margeArr\obj\Debug\net10.0\56.margeArr.AssemblyInfo.cs
+D:\C#- level 2\56.margeArr\obj\Debug\net10.0\56.margeArr.csproj.CoreCompileInputs.cache
+D:\C#- level 2\56.margeArr\bin\Debug\net10.0\56.margeArr.exe
+D:\C#- level 2\56.margeArr\bin\Debug\net10.0\56.margeArr.deps.json
+D:\C#- level 2\56.margeArr\bin\Debug\net10.0\56.margeArr.runtimeconfig.json
+D:\C#- level 2\56.margeArr\bin\Debug\net10.0\56.margeArr.dll
+D:\C#- level 2\56.margeArr\bin\Debug\net10.0\56.margeArr.pdb
+D:\C#- level 2\56.margeArr\obj\Debug\net10.0\56.margeArr.dll
+D:\C#- level 2\56.margeArr\obj\Debug\net10.0\refint\56.margeArr.dll
+D:\C#- level 2\56.margeArr\obj\Debug\net10.0\56.margeArr.pdb
+D:\C#- level 2\56.margeArr\obj\Debug\net10.0\56.margeArr.genruntimeconfig.cache
+D:\C#- level 2\56.margeArr\obj\Debug\net10.0\ref\56.margeArr.dll

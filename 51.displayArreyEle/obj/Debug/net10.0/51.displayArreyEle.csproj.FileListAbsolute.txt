@@ -1,0 +1,14 @@
+D:\C#- level 2\51.displayArreyEle\bin\Debug\net10.0\51.displayArreyEle.exe
+D:\C#- level 2\51.displayArreyEle\bin\Debug\net10.0\51.displayArreyEle.deps.json
+D:\C#- level 2\51.displayArreyEle\bin\Debug\net10.0\51.displayArreyEle.runtimeconfig.json
+D:\C#- level 2\51.displayArreyEle\bin\Debug\net10.0\51.displayArreyEle.dll
+D:\C#- level 2\51.displayArreyEle\bin\Debug\net10.0\51.displayArreyEle.pdb
+D:\C#- level 2\51.displayArreyEle\obj\Debug\net10.0\51.displayArreyEle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\51.displayArreyEle\obj\Debug\net10.0\51.displayArreyEle.AssemblyInfoInputs.cache
+D:\C#- level 2\51.displayArreyEle\obj\Debug\net10.0\51.displayArreyEle.AssemblyInfo.cs
+D:\C#- level 2\51.displayArreyEle\obj\Debug\net10.0\51.displayArreyEle.csproj.CoreCompileInputs.cache
+D:\C#- level 2\51.displayArreyEle\obj\Debug\net10.0\51.displayArreyEle.dll
+D:\C#- level 2\51.displayArreyEle\obj\Debug\net10.0\refint\51.displayArreyEle.dll
+D:\C#- level 2\51.displayArreyEle\obj\Debug\net10.0\51.displayArreyEle.pdb
+D:\C#- level 2\51.displayArreyEle\obj\Debug\net10.0\51.displayArreyEle.genruntimeconfig.cache
+D:\C#- level 2\51.displayArreyEle\obj\Debug\net10.0\ref\51.displayArreyEle.dll

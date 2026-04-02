@@ -1,0 +1,14 @@
+D:\C#- level 2\59.matrixAddition\bin\Debug\net10.0\59.matrixAddition.exe
+D:\C#- level 2\59.matrixAddition\bin\Debug\net10.0\59.matrixAddition.deps.json
+D:\C#- level 2\59.matrixAddition\bin\Debug\net10.0\59.matrixAddition.runtimeconfig.json
+D:\C#- level 2\59.matrixAddition\bin\Debug\net10.0\59.matrixAddition.dll
+D:\C#- level 2\59.matrixAddition\bin\Debug\net10.0\59.matrixAddition.pdb
+D:\C#- level 2\59.matrixAddition\obj\Debug\net10.0\59.matrixAddition.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\59.matrixAddition\obj\Debug\net10.0\59.matrixAddition.AssemblyInfoInputs.cache
+D:\C#- level 2\59.matrixAddition\obj\Debug\net10.0\59.matrixAddition.AssemblyInfo.cs
+D:\C#- level 2\59.matrixAddition\obj\Debug\net10.0\59.matrixAddition.csproj.CoreCompileInputs.cache
+D:\C#- level 2\59.matrixAddition\obj\Debug\net10.0\59.matrixAddition.dll
+D:\C#- level 2\59.matrixAddition\obj\Debug\net10.0\refint\59.matrixAddition.dll
+D:\C#- level 2\59.matrixAddition\obj\Debug\net10.0\59.matrixAddition.pdb
+D:\C#- level 2\59.matrixAddition\obj\Debug\net10.0\59.matrixAddition.genruntimeconfig.cache
+D:\C#- level 2\59.matrixAddition\obj\Debug\net10.0\ref\59.matrixAddition.dll

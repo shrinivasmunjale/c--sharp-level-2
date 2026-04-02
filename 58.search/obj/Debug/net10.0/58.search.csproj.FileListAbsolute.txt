@@ -1,0 +1,14 @@
+D:\C#- level 2\58.search\obj\Debug\net10.0\58.search.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\58.search\obj\Debug\net10.0\58.search.AssemblyInfoInputs.cache
+D:\C#- level 2\58.search\obj\Debug\net10.0\58.search.AssemblyInfo.cs
+D:\C#- level 2\58.search\obj\Debug\net10.0\58.search.csproj.CoreCompileInputs.cache
+D:\C#- level 2\58.search\bin\Debug\net10.0\58.search.exe
+D:\C#- level 2\58.search\bin\Debug\net10.0\58.search.deps.json
+D:\C#- level 2\58.search\bin\Debug\net10.0\58.search.runtimeconfig.json
+D:\C#- level 2\58.search\bin\Debug\net10.0\58.search.dll
+D:\C#- level 2\58.search\bin\Debug\net10.0\58.search.pdb
+D:\C#- level 2\58.search\obj\Debug\net10.0\58.search.dll
+D:\C#- level 2\58.search\obj\Debug\net10.0\refint\58.search.dll
+D:\C#- level 2\58.search\obj\Debug\net10.0\58.search.pdb
+D:\C#- level 2\58.search\obj\Debug\net10.0\58.search.genruntimeconfig.cache
+D:\C#- level 2\58.search\obj\Debug\net10.0\ref\58.search.dll

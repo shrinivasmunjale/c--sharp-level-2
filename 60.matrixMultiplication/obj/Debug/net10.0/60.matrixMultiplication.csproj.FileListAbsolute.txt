@@ -1,0 +1,14 @@
+D:\C#- level 2\60.matrixMultiplication\obj\Debug\net10.0\60.matrixMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\60.matrixMultiplication\obj\Debug\net10.0\60.matrixMultiplication.AssemblyInfoInputs.cache
+D:\C#- level 2\60.matrixMultiplication\obj\Debug\net10.0\60.matrixMultiplication.AssemblyInfo.cs
+D:\C#- level 2\60.matrixMultiplication\obj\Debug\net10.0\60.matrixMultiplication.csproj.CoreCompileInputs.cache
+D:\C#- level 2\60.matrixMultiplication\bin\Debug\net10.0\60.matrixMultiplication.exe
+D:\C#- level 2\60.matrixMultiplication\bin\Debug\net10.0\60.matrixMultiplication.deps.json
+D:\C#- level 2\60.matrixMultiplication\bin\Debug\net10.0\60.matrixMultiplication.runtimeconfig.json
+D:\C#- level 2\60.matrixMultiplication\bin\Debug\net10.0\60.matrixMultiplication.dll
+D:\C#- level 2\60.matrixMultiplication\bin\Debug\net10.0\60.matrixMultiplication.pdb
+D:\C#- level 2\60.matrixMultiplication\obj\Debug\net10.0\60.matrixMultiplication.dll
+D:\C#- level 2\60.matrixMultiplication\obj\Debug\net10.0\refint\60.matrixMultiplication.dll
+D:\C#- level 2\60.matrixMultiplication\obj\Debug\net10.0\60.matrixMultiplication.pdb
+D:\C#- level 2\60.matrixMultiplication\obj\Debug\net10.0\60.matrixMultiplication.genruntimeconfig.cache
+D:\C#- level 2\60.matrixMultiplication\obj\Debug\net10.0\ref\60.matrixMultiplication.dll

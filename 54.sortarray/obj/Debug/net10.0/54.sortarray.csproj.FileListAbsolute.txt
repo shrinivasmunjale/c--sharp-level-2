@@ -1,0 +1,14 @@
+D:\C#- level 2\54.sortarray\bin\Debug\net10.0\54.sortarray.exe
+D:\C#- level 2\54.sortarray\bin\Debug\net10.0\54.sortarray.deps.json
+D:\C#- level 2\54.sortarray\bin\Debug\net10.0\54.sortarray.runtimeconfig.json
+D:\C#- level 2\54.sortarray\bin\Debug\net10.0\54.sortarray.dll
+D:\C#- level 2\54.sortarray\bin\Debug\net10.0\54.sortarray.pdb
+D:\C#- level 2\54.sortarray\obj\Debug\net10.0\54.sortarray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\54.sortarray\obj\Debug\net10.0\54.sortarray.AssemblyInfoInputs.cache
+D:\C#- level 2\54.sortarray\obj\Debug\net10.0\54.sortarray.AssemblyInfo.cs
+D:\C#- level 2\54.sortarray\obj\Debug\net10.0\54.sortarray.csproj.CoreCompileInputs.cache
+D:\C#- level 2\54.sortarray\obj\Debug\net10.0\54.sortarray.dll
+D:\C#- level 2\54.sortarray\obj\Debug\net10.0\refint\54.sortarray.dll
+D:\C#- level 2\54.sortarray\obj\Debug\net10.0\54.sortarray.pdb
+D:\C#- level 2\54.sortarray\obj\Debug\net10.0\54.sortarray.genruntimeconfig.cache
+D:\C#- level 2\54.sortarray\obj\Debug\net10.0\ref\54.sortarray.dll
