@@ -1,0 +1,15 @@
+D:\C#- level 2\63.reverseString\bin\Debug\net10.0\63.reverseString.exe
+D:\C#- level 2\63.reverseString\bin\Debug\net10.0\63.reverseString.deps.json
+D:\C#- level 2\63.reverseString\bin\Debug\net10.0\63.reverseString.runtimeconfig.json
+D:\C#- level 2\63.reverseString\bin\Debug\net10.0\63.reverseString.dll
+D:\C#- level 2\63.reverseString\bin\Debug\net10.0\63.reverseString.pdb
+D:\C#- level 2\63.reverseString\obj\Debug\net10.0\63.reverseString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\63.reverseString\obj\Debug\net10.0\63.reverseString.AssemblyInfoInputs.cache
+D:\C#- level 2\63.reverseString\obj\Debug\net10.0\63.reverseString.AssemblyInfo.cs
+D:\C#- level 2\63.reverseString\obj\Debug\net10.0\63.reverseString.csproj.CoreCompileInputs.cache
+D:\C#- level 2\63.reverseString\obj\Debug\net10.0\63.reverseString.sourcelink.json
+D:\C#- level 2\63.reverseString\obj\Debug\net10.0\63.reverseString.dll
+D:\C#- level 2\63.reverseString\obj\Debug\net10.0\refint\63.reverseString.dll
+D:\C#- level 2\63.reverseString\obj\Debug\net10.0\63.reverseString.pdb
+D:\C#- level 2\63.reverseString\obj\Debug\net10.0\63.reverseString.genruntimeconfig.cache
+D:\C#- level 2\63.reverseString\obj\Debug\net10.0\ref\63.reverseString.dll
