@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("53.FindLargestAndLower")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+add2626335ddb9885d395c4ee5ec63b269fdbedd")]
 [assembly: System.Reflection.AssemblyProductAttribute("53.FindLargestAndLower")]
 [assembly: System.Reflection.AssemblyTitleAttribute("53.FindLargestAndLower")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

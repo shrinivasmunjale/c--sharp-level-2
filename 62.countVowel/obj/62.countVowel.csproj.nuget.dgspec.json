@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#- level 2\\55.reverseArr\\55.reversearr.csproj": {}
+    "D:\\C#- level 2\\62.countVowel\\62.countVowel.csproj": {}
   },
   "projects": {
-    "D:\\C#- level 2\\55.reverseArr\\55.reversearr.csproj": {
+    "D:\\C#- level 2\\62.countVowel\\62.countVowel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#- level 2\\55.reverseArr\\55.reversearr.csproj",
-        "projectName": "55.reversearr",
-        "projectPath": "D:\\C#- level 2\\55.reverseArr\\55.reversearr.csproj",
+        "projectUniqueName": "D:\\C#- level 2\\62.countVowel\\62.countVowel.csproj",
+        "projectName": "62.countVowel",
+        "projectPath": "D:\\C#- level 2\\62.countVowel\\62.countVowel.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\C#- level 2\\55.reverseArr\\obj\\",
+        "outputPath": "D:\\C#- level 2\\62.countVowel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+D:\C#- level 2\62.countVowel\obj\Debug\net10.0\62.countVowel.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\62.countVowel\obj\Debug\net10.0\62.countVowel.AssemblyInfoInputs.cache
+D:\C#- level 2\62.countVowel\obj\Debug\net10.0\62.countVowel.AssemblyInfo.cs
+D:\C#- level 2\62.countVowel\obj\Debug\net10.0\62.countVowel.csproj.CoreCompileInputs.cache
+D:\C#- level 2\62.countVowel\obj\Debug\net10.0\62.countVowel.sourcelink.json
+D:\C#- level 2\62.countVowel\bin\Debug\net10.0\62.countVowel.exe
+D:\C#- level 2\62.countVowel\bin\Debug\net10.0\62.countVowel.deps.json
+D:\C#- level 2\62.countVowel\bin\Debug\net10.0\62.countVowel.runtimeconfig.json
+D:\C#- level 2\62.countVowel\bin\Debug\net10.0\62.countVowel.dll
+D:\C#- level 2\62.countVowel\bin\Debug\net10.0\62.countVowel.pdb
+D:\C#- level 2\62.countVowel\obj\Debug\net10.0\62.countVowel.dll
+D:\C#- level 2\62.countVowel\obj\Debug\net10.0\refint\62.countVowel.dll
+D:\C#- level 2\62.countVowel\obj\Debug\net10.0\62.countVowel.pdb
+D:\C#- level 2\62.countVowel\obj\Debug\net10.0\62.countVowel.genruntimeconfig.cache
+D:\C#- level 2\62.countVowel\obj\Debug\net10.0\ref\62.countVowel.dll
