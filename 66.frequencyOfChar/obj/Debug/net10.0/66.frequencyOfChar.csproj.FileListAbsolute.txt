@@ -1,0 +1,15 @@
+D:\C#- level 2\66.frequencyOfChar\bin\Debug\net10.0\66.frequencyOfChar.exe
+D:\C#- level 2\66.frequencyOfChar\bin\Debug\net10.0\66.frequencyOfChar.deps.json
+D:\C#- level 2\66.frequencyOfChar\bin\Debug\net10.0\66.frequencyOfChar.runtimeconfig.json
+D:\C#- level 2\66.frequencyOfChar\bin\Debug\net10.0\66.frequencyOfChar.dll
+D:\C#- level 2\66.frequencyOfChar\bin\Debug\net10.0\66.frequencyOfChar.pdb
+D:\C#- level 2\66.frequencyOfChar\obj\Debug\net10.0\66.frequencyOfChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\66.frequencyOfChar\obj\Debug\net10.0\66.frequencyOfChar.AssemblyInfoInputs.cache
+D:\C#- level 2\66.frequencyOfChar\obj\Debug\net10.0\66.frequencyOfChar.AssemblyInfo.cs
+D:\C#- level 2\66.frequencyOfChar\obj\Debug\net10.0\66.frequencyOfChar.csproj.CoreCompileInputs.cache
+D:\C#- level 2\66.frequencyOfChar\obj\Debug\net10.0\66.frequencyOfChar.sourcelink.json
+D:\C#- level 2\66.frequencyOfChar\obj\Debug\net10.0\66.frequencyOfChar.dll
+D:\C#- level 2\66.frequencyOfChar\obj\Debug\net10.0\refint\66.frequencyOfChar.dll
+D:\C#- level 2\66.frequencyOfChar\obj\Debug\net10.0\66.frequencyOfChar.pdb
+D:\C#- level 2\66.frequencyOfChar\obj\Debug\net10.0\66.frequencyOfChar.genruntimeconfig.cache
+D:\C#- level 2\66.frequencyOfChar\obj\Debug\net10.0\ref\66.frequencyOfChar.dll

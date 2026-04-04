@@ -1,0 +1,15 @@
+D:\C#- level 2\67.removeSpace\bin\Debug\net10.0\67.removeSpace.exe
+D:\C#- level 2\67.removeSpace\bin\Debug\net10.0\67.removeSpace.deps.json
+D:\C#- level 2\67.removeSpace\bin\Debug\net10.0\67.removeSpace.runtimeconfig.json
+D:\C#- level 2\67.removeSpace\bin\Debug\net10.0\67.removeSpace.dll
+D:\C#- level 2\67.removeSpace\bin\Debug\net10.0\67.removeSpace.pdb
+D:\C#- level 2\67.removeSpace\obj\Debug\net10.0\67.removeSpace.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\67.removeSpace\obj\Debug\net10.0\67.removeSpace.AssemblyInfoInputs.cache
+D:\C#- level 2\67.removeSpace\obj\Debug\net10.0\67.removeSpace.AssemblyInfo.cs
+D:\C#- level 2\67.removeSpace\obj\Debug\net10.0\67.removeSpace.csproj.CoreCompileInputs.cache
+D:\C#- level 2\67.removeSpace\obj\Debug\net10.0\67.removeSpace.sourcelink.json
+D:\C#- level 2\67.removeSpace\obj\Debug\net10.0\67.removeSpace.dll
+D:\C#- level 2\67.removeSpace\obj\Debug\net10.0\refint\67.removeSpace.dll
+D:\C#- level 2\67.removeSpace\obj\Debug\net10.0\67.removeSpace.pdb
+D:\C#- level 2\67.removeSpace\obj\Debug\net10.0\67.removeSpace.genruntimeconfig.cache
+D:\C#- level 2\67.removeSpace\obj\Debug\net10.0\ref\67.removeSpace.dll
