@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("51.displayArreyEle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d815b555d8fcd88105af3cf2d10a32e17296d24d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d54ec72fc59ddefc43372ce5135f006fddb8c51")]
 [assembly: System.Reflection.AssemblyProductAttribute("51.displayArreyEle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("51.displayArreyEle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+D:\C#- level 2\71.methodsParameters\bin\Debug\net10.0\71.methodsParameters.exe
+D:\C#- level 2\71.methodsParameters\bin\Debug\net10.0\71.methodsParameters.deps.json
+D:\C#- level 2\71.methodsParameters\bin\Debug\net10.0\71.methodsParameters.runtimeconfig.json
+D:\C#- level 2\71.methodsParameters\bin\Debug\net10.0\71.methodsParameters.dll
+D:\C#- level 2\71.methodsParameters\bin\Debug\net10.0\71.methodsParameters.pdb
+D:\C#- level 2\71.methodsParameters\obj\Debug\net10.0\71.methodsParameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\71.methodsParameters\obj\Debug\net10.0\71.methodsParameters.AssemblyInfoInputs.cache
+D:\C#- level 2\71.methodsParameters\obj\Debug\net10.0\71.methodsParameters.AssemblyInfo.cs
+D:\C#- level 2\71.methodsParameters\obj\Debug\net10.0\71.methodsParameters.csproj.CoreCompileInputs.cache
+D:\C#- level 2\71.methodsParameters\obj\Debug\net10.0\71.methodsParameters.sourcelink.json
+D:\C#- level 2\71.methodsParameters\obj\Debug\net10.0\71.methodsParameters.dll
+D:\C#- level 2\71.methodsParameters\obj\Debug\net10.0\refint\71.methodsParameters.dll
+D:\C#- level 2\71.methodsParameters\obj\Debug\net10.0\71.methodsParameters.pdb
+D:\C#- level 2\71.methodsParameters\obj\Debug\net10.0\71.methodsParameters.genruntimeconfig.cache
+D:\C#- level 2\71.methodsParameters\obj\Debug\net10.0\ref\71.methodsParameters.dll

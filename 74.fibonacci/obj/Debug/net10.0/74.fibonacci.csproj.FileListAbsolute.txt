@@ -1,0 +1,15 @@
+D:\C#- level 2\74.fibonacci\bin\Debug\net10.0\74.fibonacci.exe
+D:\C#- level 2\74.fibonacci\bin\Debug\net10.0\74.fibonacci.deps.json
+D:\C#- level 2\74.fibonacci\bin\Debug\net10.0\74.fibonacci.runtimeconfig.json
+D:\C#- level 2\74.fibonacci\bin\Debug\net10.0\74.fibonacci.dll
+D:\C#- level 2\74.fibonacci\bin\Debug\net10.0\74.fibonacci.pdb
+D:\C#- level 2\74.fibonacci\obj\Debug\net10.0\74.fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\74.fibonacci\obj\Debug\net10.0\74.fibonacci.AssemblyInfoInputs.cache
+D:\C#- level 2\74.fibonacci\obj\Debug\net10.0\74.fibonacci.AssemblyInfo.cs
+D:\C#- level 2\74.fibonacci\obj\Debug\net10.0\74.fibonacci.csproj.CoreCompileInputs.cache
+D:\C#- level 2\74.fibonacci\obj\Debug\net10.0\74.fibonacci.sourcelink.json
+D:\C#- level 2\74.fibonacci\obj\Debug\net10.0\74.fibonacci.dll
+D:\C#- level 2\74.fibonacci\obj\Debug\net10.0\refint\74.fibonacci.dll
+D:\C#- level 2\74.fibonacci\obj\Debug\net10.0\74.fibonacci.pdb
+D:\C#- level 2\74.fibonacci\obj\Debug\net10.0\74.fibonacci.genruntimeconfig.cache
+D:\C#- level 2\74.fibonacci\obj\Debug\net10.0\ref\74.fibonacci.dll

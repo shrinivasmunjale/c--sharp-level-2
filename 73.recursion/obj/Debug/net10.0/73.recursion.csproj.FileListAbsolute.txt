@@ -1,0 +1,15 @@
+D:\C#- level 2\73.recursion\bin\Debug\net10.0\73.recursion.exe
+D:\C#- level 2\73.recursion\bin\Debug\net10.0\73.recursion.deps.json
+D:\C#- level 2\73.recursion\bin\Debug\net10.0\73.recursion.runtimeconfig.json
+D:\C#- level 2\73.recursion\bin\Debug\net10.0\73.recursion.dll
+D:\C#- level 2\73.recursion\bin\Debug\net10.0\73.recursion.pdb
+D:\C#- level 2\73.recursion\obj\Debug\net10.0\73.recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\73.recursion\obj\Debug\net10.0\73.recursion.AssemblyInfoInputs.cache
+D:\C#- level 2\73.recursion\obj\Debug\net10.0\73.recursion.AssemblyInfo.cs
+D:\C#- level 2\73.recursion\obj\Debug\net10.0\73.recursion.csproj.CoreCompileInputs.cache
+D:\C#- level 2\73.recursion\obj\Debug\net10.0\73.recursion.sourcelink.json
+D:\C#- level 2\73.recursion\obj\Debug\net10.0\73.recursion.dll
+D:\C#- level 2\73.recursion\obj\Debug\net10.0\refint\73.recursion.dll
+D:\C#- level 2\73.recursion\obj\Debug\net10.0\73.recursion.pdb
+D:\C#- level 2\73.recursion\obj\Debug\net10.0\73.recursion.genruntimeconfig.cache
+D:\C#- level 2\73.recursion\obj\Debug\net10.0\ref\73.recursion.dll

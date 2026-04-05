@@ -1,0 +1,15 @@
+D:\C#- level 2\72.overloading\bin\Debug\net10.0\72.overloading.exe
+D:\C#- level 2\72.overloading\bin\Debug\net10.0\72.overloading.deps.json
+D:\C#- level 2\72.overloading\bin\Debug\net10.0\72.overloading.runtimeconfig.json
+D:\C#- level 2\72.overloading\bin\Debug\net10.0\72.overloading.dll
+D:\C#- level 2\72.overloading\bin\Debug\net10.0\72.overloading.pdb
+D:\C#- level 2\72.overloading\obj\Debug\net10.0\72.overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\72.overloading\obj\Debug\net10.0\72.overloading.AssemblyInfoInputs.cache
+D:\C#- level 2\72.overloading\obj\Debug\net10.0\72.overloading.AssemblyInfo.cs
+D:\C#- level 2\72.overloading\obj\Debug\net10.0\72.overloading.csproj.CoreCompileInputs.cache
+D:\C#- level 2\72.overloading\obj\Debug\net10.0\72.overloading.sourcelink.json
+D:\C#- level 2\72.overloading\obj\Debug\net10.0\72.overloading.dll
+D:\C#- level 2\72.overloading\obj\Debug\net10.0\refint\72.overloading.dll
+D:\C#- level 2\72.overloading\obj\Debug\net10.0\72.overloading.pdb
+D:\C#- level 2\72.overloading\obj\Debug\net10.0\72.overloading.genruntimeconfig.cache
+D:\C#- level 2\72.overloading\obj\Debug\net10.0\ref\72.overloading.dll

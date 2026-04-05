@@ -1,0 +1,15 @@
+D:\C#- level 2\75.calculateFibonacci\bin\Debug\net10.0\75.calculateFibonacci.exe
+D:\C#- level 2\75.calculateFibonacci\bin\Debug\net10.0\75.calculateFibonacci.deps.json
+D:\C#- level 2\75.calculateFibonacci\bin\Debug\net10.0\75.calculateFibonacci.runtimeconfig.json
+D:\C#- level 2\75.calculateFibonacci\bin\Debug\net10.0\75.calculateFibonacci.dll
+D:\C#- level 2\75.calculateFibonacci\bin\Debug\net10.0\75.calculateFibonacci.pdb
+D:\C#- level 2\75.calculateFibonacci\obj\Debug\net10.0\75.calculateFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\75.calculateFibonacci\obj\Debug\net10.0\75.calculateFibonacci.AssemblyInfoInputs.cache
+D:\C#- level 2\75.calculateFibonacci\obj\Debug\net10.0\75.calculateFibonacci.AssemblyInfo.cs
+D:\C#- level 2\75.calculateFibonacci\obj\Debug\net10.0\75.calculateFibonacci.csproj.CoreCompileInputs.cache
+D:\C#- level 2\75.calculateFibonacci\obj\Debug\net10.0\75.calculateFibonacci.sourcelink.json
+D:\C#- level 2\75.calculateFibonacci\obj\Debug\net10.0\75.calculateFibonacci.dll
+D:\C#- level 2\75.calculateFibonacci\obj\Debug\net10.0\refint\75.calculateFibonacci.dll
+D:\C#- level 2\75.calculateFibonacci\obj\Debug\net10.0\75.calculateFibonacci.pdb
+D:\C#- level 2\75.calculateFibonacci\obj\Debug\net10.0\75.calculateFibonacci.genruntimeconfig.cache
+D:\C#- level 2\75.calculateFibonacci\obj\Debug\net10.0\ref\75.calculateFibonacci.dll
