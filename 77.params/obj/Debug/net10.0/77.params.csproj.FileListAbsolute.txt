@@ -1,0 +1,15 @@
+D:\C#- level 2\77.params\obj\Debug\net10.0\77.params.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\77.params\obj\Debug\net10.0\77.params.AssemblyInfoInputs.cache
+D:\C#- level 2\77.params\obj\Debug\net10.0\77.params.AssemblyInfo.cs
+D:\C#- level 2\77.params\obj\Debug\net10.0\77.params.csproj.CoreCompileInputs.cache
+D:\C#- level 2\77.params\obj\Debug\net10.0\77.params.sourcelink.json
+D:\C#- level 2\77.params\bin\Debug\net10.0\77.params.exe
+D:\C#- level 2\77.params\bin\Debug\net10.0\77.params.deps.json
+D:\C#- level 2\77.params\bin\Debug\net10.0\77.params.runtimeconfig.json
+D:\C#- level 2\77.params\bin\Debug\net10.0\77.params.dll
+D:\C#- level 2\77.params\bin\Debug\net10.0\77.params.pdb
+D:\C#- level 2\77.params\obj\Debug\net10.0\77.params.dll
+D:\C#- level 2\77.params\obj\Debug\net10.0\refint\77.params.dll
+D:\C#- level 2\77.params\obj\Debug\net10.0\77.params.pdb
+D:\C#- level 2\77.params\obj\Debug\net10.0\77.params.genruntimeconfig.cache
+D:\C#- level 2\77.params\obj\Debug\net10.0\ref\77.params.dll

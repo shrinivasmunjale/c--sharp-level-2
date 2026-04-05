@@ -1,0 +1,15 @@
+D:\C#- level 2\76.outAndRefkeyword\obj\Debug\net10.0\76.outAndRefkeyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\76.outAndRefkeyword\obj\Debug\net10.0\76.outAndRefkeyword.AssemblyInfoInputs.cache
+D:\C#- level 2\76.outAndRefkeyword\obj\Debug\net10.0\76.outAndRefkeyword.AssemblyInfo.cs
+D:\C#- level 2\76.outAndRefkeyword\obj\Debug\net10.0\76.outAndRefkeyword.csproj.CoreCompileInputs.cache
+D:\C#- level 2\76.outAndRefkeyword\obj\Debug\net10.0\76.outAndRefkeyword.sourcelink.json
+D:\C#- level 2\76.outAndRefkeyword\bin\Debug\net10.0\76.outAndRefkeyword.exe
+D:\C#- level 2\76.outAndRefkeyword\bin\Debug\net10.0\76.outAndRefkeyword.deps.json
+D:\C#- level 2\76.outAndRefkeyword\bin\Debug\net10.0\76.outAndRefkeyword.runtimeconfig.json
+D:\C#- level 2\76.outAndRefkeyword\bin\Debug\net10.0\76.outAndRefkeyword.dll
+D:\C#- level 2\76.outAndRefkeyword\bin\Debug\net10.0\76.outAndRefkeyword.pdb
+D:\C#- level 2\76.outAndRefkeyword\obj\Debug\net10.0\76.outAndRefkeyword.dll
+D:\C#- level 2\76.outAndRefkeyword\obj\Debug\net10.0\refint\76.outAndRefkeyword.dll
+D:\C#- level 2\76.outAndRefkeyword\obj\Debug\net10.0\76.outAndRefkeyword.pdb
+D:\C#- level 2\76.outAndRefkeyword\obj\Debug\net10.0\76.outAndRefkeyword.genruntimeconfig.cache
+D:\C#- level 2\76.outAndRefkeyword\obj\Debug\net10.0\ref\76.outAndRefkeyword.dll

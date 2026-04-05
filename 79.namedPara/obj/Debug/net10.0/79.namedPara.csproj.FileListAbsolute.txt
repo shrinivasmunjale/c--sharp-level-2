@@ -1,0 +1,15 @@
+D:\C#- level 2\79.namedPara\obj\Debug\net10.0\79.namedPara.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\79.namedPara\obj\Debug\net10.0\79.namedPara.AssemblyInfoInputs.cache
+D:\C#- level 2\79.namedPara\obj\Debug\net10.0\79.namedPara.AssemblyInfo.cs
+D:\C#- level 2\79.namedPara\obj\Debug\net10.0\79.namedPara.csproj.CoreCompileInputs.cache
+D:\C#- level 2\79.namedPara\obj\Debug\net10.0\79.namedPara.sourcelink.json
+D:\C#- level 2\79.namedPara\bin\Debug\net10.0\79.namedPara.exe
+D:\C#- level 2\79.namedPara\bin\Debug\net10.0\79.namedPara.deps.json
+D:\C#- level 2\79.namedPara\bin\Debug\net10.0\79.namedPara.runtimeconfig.json
+D:\C#- level 2\79.namedPara\bin\Debug\net10.0\79.namedPara.dll
+D:\C#- level 2\79.namedPara\bin\Debug\net10.0\79.namedPara.pdb
+D:\C#- level 2\79.namedPara\obj\Debug\net10.0\79.namedPara.dll
+D:\C#- level 2\79.namedPara\obj\Debug\net10.0\refint\79.namedPara.dll
+D:\C#- level 2\79.namedPara\obj\Debug\net10.0\79.namedPara.pdb
+D:\C#- level 2\79.namedPara\obj\Debug\net10.0\79.namedPara.genruntimeconfig.cache
+D:\C#- level 2\79.namedPara\obj\Debug\net10.0\ref\79.namedPara.dll

@@ -1,0 +1,15 @@
+D:\C#- level 2\78.optional\bin\Debug\net10.0\78.optional.exe
+D:\C#- level 2\78.optional\bin\Debug\net10.0\78.optional.deps.json
+D:\C#- level 2\78.optional\bin\Debug\net10.0\78.optional.runtimeconfig.json
+D:\C#- level 2\78.optional\bin\Debug\net10.0\78.optional.dll
+D:\C#- level 2\78.optional\bin\Debug\net10.0\78.optional.pdb
+D:\C#- level 2\78.optional\obj\Debug\net10.0\78.optional.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\78.optional\obj\Debug\net10.0\78.optional.AssemblyInfoInputs.cache
+D:\C#- level 2\78.optional\obj\Debug\net10.0\78.optional.AssemblyInfo.cs
+D:\C#- level 2\78.optional\obj\Debug\net10.0\78.optional.csproj.CoreCompileInputs.cache
+D:\C#- level 2\78.optional\obj\Debug\net10.0\78.optional.sourcelink.json
+D:\C#- level 2\78.optional\obj\Debug\net10.0\78.optional.dll
+D:\C#- level 2\78.optional\obj\Debug\net10.0\refint\78.optional.dll
+D:\C#- level 2\78.optional\obj\Debug\net10.0\78.optional.pdb
+D:\C#- level 2\78.optional\obj\Debug\net10.0\78.optional.genruntimeconfig.cache
+D:\C#- level 2\78.optional\obj\Debug\net10.0\ref\78.optional.dll
