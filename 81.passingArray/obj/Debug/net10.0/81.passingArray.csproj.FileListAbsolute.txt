@@ -1,0 +1,15 @@
+D:\C#- level 2\81.passingArray\bin\Debug\net10.0\81.passingArray.exe
+D:\C#- level 2\81.passingArray\bin\Debug\net10.0\81.passingArray.deps.json
+D:\C#- level 2\81.passingArray\bin\Debug\net10.0\81.passingArray.runtimeconfig.json
+D:\C#- level 2\81.passingArray\bin\Debug\net10.0\81.passingArray.dll
+D:\C#- level 2\81.passingArray\bin\Debug\net10.0\81.passingArray.pdb
+D:\C#- level 2\81.passingArray\obj\Debug\net10.0\81.passingArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\81.passingArray\obj\Debug\net10.0\81.passingArray.AssemblyInfoInputs.cache
+D:\C#- level 2\81.passingArray\obj\Debug\net10.0\81.passingArray.AssemblyInfo.cs
+D:\C#- level 2\81.passingArray\obj\Debug\net10.0\81.passingArray.csproj.CoreCompileInputs.cache
+D:\C#- level 2\81.passingArray\obj\Debug\net10.0\81.passingArray.sourcelink.json
+D:\C#- level 2\81.passingArray\obj\Debug\net10.0\81.passingArray.dll
+D:\C#- level 2\81.passingArray\obj\Debug\net10.0\refint\81.passingArray.dll
+D:\C#- level 2\81.passingArray\obj\Debug\net10.0\81.passingArray.pdb
+D:\C#- level 2\81.passingArray\obj\Debug\net10.0\81.passingArray.genruntimeconfig.cache
+D:\C#- level 2\81.passingArray\obj\Debug\net10.0\ref\81.passingArray.dll
