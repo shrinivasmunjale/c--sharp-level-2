@@ -1,0 +1,15 @@
+D:\C#- level 2\85.removeSpecialChar\bin\Debug\net10.0\85.removeSpecialChar.exe
+D:\C#- level 2\85.removeSpecialChar\bin\Debug\net10.0\85.removeSpecialChar.deps.json
+D:\C#- level 2\85.removeSpecialChar\bin\Debug\net10.0\85.removeSpecialChar.runtimeconfig.json
+D:\C#- level 2\85.removeSpecialChar\bin\Debug\net10.0\85.removeSpecialChar.dll
+D:\C#- level 2\85.removeSpecialChar\bin\Debug\net10.0\85.removeSpecialChar.pdb
+D:\C#- level 2\85.removeSpecialChar\obj\Debug\net10.0\85.removeSpecialChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\85.removeSpecialChar\obj\Debug\net10.0\85.removeSpecialChar.AssemblyInfoInputs.cache
+D:\C#- level 2\85.removeSpecialChar\obj\Debug\net10.0\85.removeSpecialChar.AssemblyInfo.cs
+D:\C#- level 2\85.removeSpecialChar\obj\Debug\net10.0\85.removeSpecialChar.csproj.CoreCompileInputs.cache
+D:\C#- level 2\85.removeSpecialChar\obj\Debug\net10.0\85.removeSpecialChar.sourcelink.json
+D:\C#- level 2\85.removeSpecialChar\obj\Debug\net10.0\85.removeSpecialChar.dll
+D:\C#- level 2\85.removeSpecialChar\obj\Debug\net10.0\refint\85.removeSpecialChar.dll
+D:\C#- level 2\85.removeSpecialChar\obj\Debug\net10.0\85.removeSpecialChar.pdb
+D:\C#- level 2\85.removeSpecialChar\obj\Debug\net10.0\85.removeSpecialChar.genruntimeconfig.cache
+D:\C#- level 2\85.removeSpecialChar\obj\Debug\net10.0\ref\85.removeSpecialChar.dll
