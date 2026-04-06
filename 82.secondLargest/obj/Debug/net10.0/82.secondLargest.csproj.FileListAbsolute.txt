@@ -1,0 +1,15 @@
+D:\C#- level 2\82.secondLargest\obj\Debug\net10.0\82.secondLargest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\82.secondLargest\obj\Debug\net10.0\82.secondLargest.AssemblyInfoInputs.cache
+D:\C#- level 2\82.secondLargest\obj\Debug\net10.0\82.secondLargest.AssemblyInfo.cs
+D:\C#- level 2\82.secondLargest\obj\Debug\net10.0\82.secondLargest.csproj.CoreCompileInputs.cache
+D:\C#- level 2\82.secondLargest\obj\Debug\net10.0\82.secondLargest.sourcelink.json
+D:\C#- level 2\82.secondLargest\bin\Debug\net10.0\82.secondLargest.exe
+D:\C#- level 2\82.secondLargest\bin\Debug\net10.0\82.secondLargest.deps.json
+D:\C#- level 2\82.secondLargest\bin\Debug\net10.0\82.secondLargest.runtimeconfig.json
+D:\C#- level 2\82.secondLargest\bin\Debug\net10.0\82.secondLargest.dll
+D:\C#- level 2\82.secondLargest\bin\Debug\net10.0\82.secondLargest.pdb
+D:\C#- level 2\82.secondLargest\obj\Debug\net10.0\82.secondLargest.dll
+D:\C#- level 2\82.secondLargest\obj\Debug\net10.0\refint\82.secondLargest.dll
+D:\C#- level 2\82.secondLargest\obj\Debug\net10.0\82.secondLargest.pdb
+D:\C#- level 2\82.secondLargest\obj\Debug\net10.0\82.secondLargest.genruntimeconfig.cache
+D:\C#- level 2\82.secondLargest\obj\Debug\net10.0\ref\82.secondLargest.dll
