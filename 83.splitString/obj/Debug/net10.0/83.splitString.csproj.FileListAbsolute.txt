@@ -1,0 +1,15 @@
+D:\C#- level 2\83.splitString\obj\Debug\net10.0\83.splitString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\83.splitString\obj\Debug\net10.0\83.splitString.AssemblyInfoInputs.cache
+D:\C#- level 2\83.splitString\obj\Debug\net10.0\83.splitString.AssemblyInfo.cs
+D:\C#- level 2\83.splitString\obj\Debug\net10.0\83.splitString.csproj.CoreCompileInputs.cache
+D:\C#- level 2\83.splitString\obj\Debug\net10.0\83.splitString.sourcelink.json
+D:\C#- level 2\83.splitString\bin\Debug\net10.0\83.splitString.exe
+D:\C#- level 2\83.splitString\bin\Debug\net10.0\83.splitString.deps.json
+D:\C#- level 2\83.splitString\bin\Debug\net10.0\83.splitString.runtimeconfig.json
+D:\C#- level 2\83.splitString\bin\Debug\net10.0\83.splitString.dll
+D:\C#- level 2\83.splitString\bin\Debug\net10.0\83.splitString.pdb
+D:\C#- level 2\83.splitString\obj\Debug\net10.0\83.splitString.dll
+D:\C#- level 2\83.splitString\obj\Debug\net10.0\refint\83.splitString.dll
+D:\C#- level 2\83.splitString\obj\Debug\net10.0\83.splitString.pdb
+D:\C#- level 2\83.splitString\obj\Debug\net10.0\83.splitString.genruntimeconfig.cache
+D:\C#- level 2\83.splitString\obj\Debug\net10.0\ref\83.splitString.dll
