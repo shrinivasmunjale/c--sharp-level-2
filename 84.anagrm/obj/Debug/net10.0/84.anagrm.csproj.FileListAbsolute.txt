@@ -1,0 +1,15 @@
+D:\C#- level 2\84.anagrm\bin\Debug\net10.0\84.anagrm.exe
+D:\C#- level 2\84.anagrm\bin\Debug\net10.0\84.anagrm.deps.json
+D:\C#- level 2\84.anagrm\bin\Debug\net10.0\84.anagrm.runtimeconfig.json
+D:\C#- level 2\84.anagrm\bin\Debug\net10.0\84.anagrm.dll
+D:\C#- level 2\84.anagrm\bin\Debug\net10.0\84.anagrm.pdb
+D:\C#- level 2\84.anagrm\obj\Debug\net10.0\84.anagrm.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\84.anagrm\obj\Debug\net10.0\84.anagrm.AssemblyInfoInputs.cache
+D:\C#- level 2\84.anagrm\obj\Debug\net10.0\84.anagrm.AssemblyInfo.cs
+D:\C#- level 2\84.anagrm\obj\Debug\net10.0\84.anagrm.csproj.CoreCompileInputs.cache
+D:\C#- level 2\84.anagrm\obj\Debug\net10.0\84.anagrm.sourcelink.json
+D:\C#- level 2\84.anagrm\obj\Debug\net10.0\84.anagrm.dll
+D:\C#- level 2\84.anagrm\obj\Debug\net10.0\refint\84.anagrm.dll
+D:\C#- level 2\84.anagrm\obj\Debug\net10.0\84.anagrm.pdb
+D:\C#- level 2\84.anagrm\obj\Debug\net10.0\84.anagrm.genruntimeconfig.cache
+D:\C#- level 2\84.anagrm\obj\Debug\net10.0\ref\84.anagrm.dll

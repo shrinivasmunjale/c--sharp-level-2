@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "84.anagrm/1.0.0": {
+        "runtime": {
+          "84.anagrm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "84.anagrm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
