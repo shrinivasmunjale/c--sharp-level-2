@@ -24,7 +24,7 @@ To improve problem-solving skills and understand reusable programming techniques
 - C#
 - .NET
 
-## 📌 Total Programs
+## 📌 Total Programs 50 code
 👉 50 Programs (51–100)
 
 ## 📖 Reference
