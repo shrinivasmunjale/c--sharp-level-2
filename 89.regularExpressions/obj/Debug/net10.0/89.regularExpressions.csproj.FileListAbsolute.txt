@@ -1,0 +1,15 @@
+D:\C#- level 2\89.regularExpressions\bin\Debug\net10.0\89.regularExpressions.exe
+D:\C#- level 2\89.regularExpressions\bin\Debug\net10.0\89.regularExpressions.deps.json
+D:\C#- level 2\89.regularExpressions\bin\Debug\net10.0\89.regularExpressions.runtimeconfig.json
+D:\C#- level 2\89.regularExpressions\bin\Debug\net10.0\89.regularExpressions.dll
+D:\C#- level 2\89.regularExpressions\bin\Debug\net10.0\89.regularExpressions.pdb
+D:\C#- level 2\89.regularExpressions\obj\Debug\net10.0\89.regularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\89.regularExpressions\obj\Debug\net10.0\89.regularExpressions.AssemblyInfoInputs.cache
+D:\C#- level 2\89.regularExpressions\obj\Debug\net10.0\89.regularExpressions.AssemblyInfo.cs
+D:\C#- level 2\89.regularExpressions\obj\Debug\net10.0\89.regularExpressions.csproj.CoreCompileInputs.cache
+D:\C#- level 2\89.regularExpressions\obj\Debug\net10.0\89.regularExpressions.sourcelink.json
+D:\C#- level 2\89.regularExpressions\obj\Debug\net10.0\89.regularExpressions.dll
+D:\C#- level 2\89.regularExpressions\obj\Debug\net10.0\refint\89.regularExpressions.dll
+D:\C#- level 2\89.regularExpressions\obj\Debug\net10.0\89.regularExpressions.pdb
+D:\C#- level 2\89.regularExpressions\obj\Debug\net10.0\89.regularExpressions.genruntimeconfig.cache
+D:\C#- level 2\89.regularExpressions\obj\Debug\net10.0\ref\89.regularExpressions.dll
