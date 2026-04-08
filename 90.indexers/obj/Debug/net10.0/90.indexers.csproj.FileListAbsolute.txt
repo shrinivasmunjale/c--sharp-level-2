@@ -1,0 +1,15 @@
+D:\C#- level 2\90.indexers\bin\Debug\net10.0\90.indexers.exe
+D:\C#- level 2\90.indexers\bin\Debug\net10.0\90.indexers.deps.json
+D:\C#- level 2\90.indexers\bin\Debug\net10.0\90.indexers.runtimeconfig.json
+D:\C#- level 2\90.indexers\bin\Debug\net10.0\90.indexers.dll
+D:\C#- level 2\90.indexers\bin\Debug\net10.0\90.indexers.pdb
+D:\C#- level 2\90.indexers\obj\Debug\net10.0\90.indexers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\90.indexers\obj\Debug\net10.0\90.indexers.AssemblyInfoInputs.cache
+D:\C#- level 2\90.indexers\obj\Debug\net10.0\90.indexers.AssemblyInfo.cs
+D:\C#- level 2\90.indexers\obj\Debug\net10.0\90.indexers.csproj.CoreCompileInputs.cache
+D:\C#- level 2\90.indexers\obj\Debug\net10.0\90.indexers.sourcelink.json
+D:\C#- level 2\90.indexers\obj\Debug\net10.0\90.indexers.dll
+D:\C#- level 2\90.indexers\obj\Debug\net10.0\refint\90.indexers.dll
+D:\C#- level 2\90.indexers\obj\Debug\net10.0\90.indexers.pdb
+D:\C#- level 2\90.indexers\obj\Debug\net10.0\90.indexers.genruntimeconfig.cache
+D:\C#- level 2\90.indexers\obj\Debug\net10.0\ref\90.indexers.dll
