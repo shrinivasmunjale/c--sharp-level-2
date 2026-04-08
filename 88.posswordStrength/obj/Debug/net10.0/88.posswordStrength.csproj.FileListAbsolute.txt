@@ -1,0 +1,15 @@
+D:\C#- level 2\88.posswordStrength\obj\Debug\net10.0\88.posswordStrength.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\88.posswordStrength\obj\Debug\net10.0\88.posswordStrength.AssemblyInfoInputs.cache
+D:\C#- level 2\88.posswordStrength\obj\Debug\net10.0\88.posswordStrength.AssemblyInfo.cs
+D:\C#- level 2\88.posswordStrength\obj\Debug\net10.0\88.posswordStrength.csproj.CoreCompileInputs.cache
+D:\C#- level 2\88.posswordStrength\obj\Debug\net10.0\88.posswordStrength.sourcelink.json
+D:\C#- level 2\88.posswordStrength\bin\Debug\net10.0\88.posswordStrength.exe
+D:\C#- level 2\88.posswordStrength\bin\Debug\net10.0\88.posswordStrength.deps.json
+D:\C#- level 2\88.posswordStrength\bin\Debug\net10.0\88.posswordStrength.runtimeconfig.json
+D:\C#- level 2\88.posswordStrength\bin\Debug\net10.0\88.posswordStrength.dll
+D:\C#- level 2\88.posswordStrength\bin\Debug\net10.0\88.posswordStrength.pdb
+D:\C#- level 2\88.posswordStrength\obj\Debug\net10.0\88.posswordStrength.dll
+D:\C#- level 2\88.posswordStrength\obj\Debug\net10.0\refint\88.posswordStrength.dll
+D:\C#- level 2\88.posswordStrength\obj\Debug\net10.0\88.posswordStrength.pdb
+D:\C#- level 2\88.posswordStrength\obj\Debug\net10.0\88.posswordStrength.genruntimeconfig.cache
+D:\C#- level 2\88.posswordStrength\obj\Debug\net10.0\ref\88.posswordStrength.dll
