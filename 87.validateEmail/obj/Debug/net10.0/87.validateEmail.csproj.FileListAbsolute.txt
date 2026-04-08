@@ -1,0 +1,15 @@
+D:\C#- level 2\87.validateEmail\bin\Debug\net10.0\87.validateEmail.exe
+D:\C#- level 2\87.validateEmail\bin\Debug\net10.0\87.validateEmail.deps.json
+D:\C#- level 2\87.validateEmail\bin\Debug\net10.0\87.validateEmail.runtimeconfig.json
+D:\C#- level 2\87.validateEmail\bin\Debug\net10.0\87.validateEmail.dll
+D:\C#- level 2\87.validateEmail\bin\Debug\net10.0\87.validateEmail.pdb
+D:\C#- level 2\87.validateEmail\obj\Debug\net10.0\87.validateEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\87.validateEmail\obj\Debug\net10.0\87.validateEmail.AssemblyInfoInputs.cache
+D:\C#- level 2\87.validateEmail\obj\Debug\net10.0\87.validateEmail.AssemblyInfo.cs
+D:\C#- level 2\87.validateEmail\obj\Debug\net10.0\87.validateEmail.csproj.CoreCompileInputs.cache
+D:\C#- level 2\87.validateEmail\obj\Debug\net10.0\87.validateEmail.sourcelink.json
+D:\C#- level 2\87.validateEmail\obj\Debug\net10.0\87.validateEmail.dll
+D:\C#- level 2\87.validateEmail\obj\Debug\net10.0\refint\87.validateEmail.dll
+D:\C#- level 2\87.validateEmail\obj\Debug\net10.0\87.validateEmail.pdb
+D:\C#- level 2\87.validateEmail\obj\Debug\net10.0\87.validateEmail.genruntimeconfig.cache
+D:\C#- level 2\87.validateEmail\obj\Debug\net10.0\ref\87.validateEmail.dll
