@@ -1,0 +1,15 @@
+D:\C#- level 2\86.convertString\obj\Debug\net10.0\86.convertString.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\86.convertString\obj\Debug\net10.0\86.convertString.AssemblyInfoInputs.cache
+D:\C#- level 2\86.convertString\obj\Debug\net10.0\86.convertString.AssemblyInfo.cs
+D:\C#- level 2\86.convertString\obj\Debug\net10.0\86.convertString.csproj.CoreCompileInputs.cache
+D:\C#- level 2\86.convertString\obj\Debug\net10.0\86.convertString.sourcelink.json
+D:\C#- level 2\86.convertString\bin\Debug\net10.0\86.convertString.exe
+D:\C#- level 2\86.convertString\bin\Debug\net10.0\86.convertString.deps.json
+D:\C#- level 2\86.convertString\bin\Debug\net10.0\86.convertString.runtimeconfig.json
+D:\C#- level 2\86.convertString\bin\Debug\net10.0\86.convertString.dll
+D:\C#- level 2\86.convertString\bin\Debug\net10.0\86.convertString.pdb
+D:\C#- level 2\86.convertString\obj\Debug\net10.0\86.convertString.dll
+D:\C#- level 2\86.convertString\obj\Debug\net10.0\refint\86.convertString.dll
+D:\C#- level 2\86.convertString\obj\Debug\net10.0\86.convertString.pdb
+D:\C#- level 2\86.convertString\obj\Debug\net10.0\86.convertString.genruntimeconfig.cache
+D:\C#- level 2\86.convertString\obj\Debug\net10.0\ref\86.convertString.dll
