@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("55.reversearr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d54ec72fc59ddefc43372ce5135f006fddb8c51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e0a1edc5d75b580fea0b62b72f5baff6dd0e942")]
 [assembly: System.Reflection.AssemblyProductAttribute("55.reversearr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("55.reversearr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
