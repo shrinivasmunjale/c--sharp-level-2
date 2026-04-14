@@ -1,0 +1,15 @@
+D:\C#- level 2\91.jaggedArray\bin\Debug\net10.0\91.jaggedArray.exe
+D:\C#- level 2\91.jaggedArray\bin\Debug\net10.0\91.jaggedArray.deps.json
+D:\C#- level 2\91.jaggedArray\bin\Debug\net10.0\91.jaggedArray.runtimeconfig.json
+D:\C#- level 2\91.jaggedArray\bin\Debug\net10.0\91.jaggedArray.dll
+D:\C#- level 2\91.jaggedArray\bin\Debug\net10.0\91.jaggedArray.pdb
+D:\C#- level 2\91.jaggedArray\obj\Debug\net10.0\91.jaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\91.jaggedArray\obj\Debug\net10.0\91.jaggedArray.AssemblyInfoInputs.cache
+D:\C#- level 2\91.jaggedArray\obj\Debug\net10.0\91.jaggedArray.AssemblyInfo.cs
+D:\C#- level 2\91.jaggedArray\obj\Debug\net10.0\91.jaggedArray.csproj.CoreCompileInputs.cache
+D:\C#- level 2\91.jaggedArray\obj\Debug\net10.0\91.jaggedArray.sourcelink.json
+D:\C#- level 2\91.jaggedArray\obj\Debug\net10.0\91.jaggedArray.dll
+D:\C#- level 2\91.jaggedArray\obj\Debug\net10.0\refint\91.jaggedArray.dll
+D:\C#- level 2\91.jaggedArray\obj\Debug\net10.0\91.jaggedArray.pdb
+D:\C#- level 2\91.jaggedArray\obj\Debug\net10.0\91.jaggedArray.genruntimeconfig.cache
+D:\C#- level 2\91.jaggedArray\obj\Debug\net10.0\ref\91.jaggedArray.dll
