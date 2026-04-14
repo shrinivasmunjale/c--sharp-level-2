@@ -1,0 +1,15 @@
+D:\C#- level 2\92.multidimensionalArray\obj\Debug\net10.0\92.multidimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\92.multidimensionalArray\obj\Debug\net10.0\92.multidimensionalArray.AssemblyInfoInputs.cache
+D:\C#- level 2\92.multidimensionalArray\obj\Debug\net10.0\92.multidimensionalArray.AssemblyInfo.cs
+D:\C#- level 2\92.multidimensionalArray\obj\Debug\net10.0\92.multidimensionalArray.csproj.CoreCompileInputs.cache
+D:\C#- level 2\92.multidimensionalArray\obj\Debug\net10.0\92.multidimensionalArray.sourcelink.json
+D:\C#- level 2\92.multidimensionalArray\bin\Debug\net10.0\92.multidimensionalArray.exe
+D:\C#- level 2\92.multidimensionalArray\bin\Debug\net10.0\92.multidimensionalArray.deps.json
+D:\C#- level 2\92.multidimensionalArray\bin\Debug\net10.0\92.multidimensionalArray.runtimeconfig.json
+D:\C#- level 2\92.multidimensionalArray\bin\Debug\net10.0\92.multidimensionalArray.dll
+D:\C#- level 2\92.multidimensionalArray\bin\Debug\net10.0\92.multidimensionalArray.pdb
+D:\C#- level 2\92.multidimensionalArray\obj\Debug\net10.0\92.multidimensionalArray.dll
+D:\C#- level 2\92.multidimensionalArray\obj\Debug\net10.0\refint\92.multidimensionalArray.dll
+D:\C#- level 2\92.multidimensionalArray\obj\Debug\net10.0\92.multidimensionalArray.pdb
+D:\C#- level 2\92.multidimensionalArray\obj\Debug\net10.0\92.multidimensionalArray.genruntimeconfig.cache
+D:\C#- level 2\92.multidimensionalArray\obj\Debug\net10.0\ref\92.multidimensionalArray.dll

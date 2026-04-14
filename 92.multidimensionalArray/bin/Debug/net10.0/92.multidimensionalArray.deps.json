@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "92.multidimensionalArray/1.0.0": {
+        "runtime": {
+          "92.multidimensionalArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "92.multidimensionalArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
