@@ -1,0 +1,15 @@
+D:\C#- level 2\95.missingNumber\bin\Debug\net10.0\95.missingNumber.exe
+D:\C#- level 2\95.missingNumber\bin\Debug\net10.0\95.missingNumber.deps.json
+D:\C#- level 2\95.missingNumber\bin\Debug\net10.0\95.missingNumber.runtimeconfig.json
+D:\C#- level 2\95.missingNumber\bin\Debug\net10.0\95.missingNumber.dll
+D:\C#- level 2\95.missingNumber\bin\Debug\net10.0\95.missingNumber.pdb
+D:\C#- level 2\95.missingNumber\obj\Debug\net10.0\95.missingNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\95.missingNumber\obj\Debug\net10.0\95.missingNumber.AssemblyInfoInputs.cache
+D:\C#- level 2\95.missingNumber\obj\Debug\net10.0\95.missingNumber.AssemblyInfo.cs
+D:\C#- level 2\95.missingNumber\obj\Debug\net10.0\95.missingNumber.csproj.CoreCompileInputs.cache
+D:\C#- level 2\95.missingNumber\obj\Debug\net10.0\95.missingNumber.sourcelink.json
+D:\C#- level 2\95.missingNumber\obj\Debug\net10.0\95.missingNumber.dll
+D:\C#- level 2\95.missingNumber\obj\Debug\net10.0\refint\95.missingNumber.dll
+D:\C#- level 2\95.missingNumber\obj\Debug\net10.0\95.missingNumber.pdb
+D:\C#- level 2\95.missingNumber\obj\Debug\net10.0\95.missingNumber.genruntimeconfig.cache
+D:\C#- level 2\95.missingNumber\obj\Debug\net10.0\ref\95.missingNumber.dll
