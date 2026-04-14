@@ -1,0 +1,15 @@
+D:\C#- level 2\94.commonElement\bin\Debug\net10.0\94.commonElement.exe
+D:\C#- level 2\94.commonElement\bin\Debug\net10.0\94.commonElement.deps.json
+D:\C#- level 2\94.commonElement\bin\Debug\net10.0\94.commonElement.runtimeconfig.json
+D:\C#- level 2\94.commonElement\bin\Debug\net10.0\94.commonElement.dll
+D:\C#- level 2\94.commonElement\bin\Debug\net10.0\94.commonElement.pdb
+D:\C#- level 2\94.commonElement\obj\Debug\net10.0\94.commonElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\94.commonElement\obj\Debug\net10.0\94.commonElement.AssemblyInfoInputs.cache
+D:\C#- level 2\94.commonElement\obj\Debug\net10.0\94.commonElement.AssemblyInfo.cs
+D:\C#- level 2\94.commonElement\obj\Debug\net10.0\94.commonElement.csproj.CoreCompileInputs.cache
+D:\C#- level 2\94.commonElement\obj\Debug\net10.0\94.commonElement.sourcelink.json
+D:\C#- level 2\94.commonElement\obj\Debug\net10.0\94.commonElement.dll
+D:\C#- level 2\94.commonElement\obj\Debug\net10.0\refint\94.commonElement.dll
+D:\C#- level 2\94.commonElement\obj\Debug\net10.0\94.commonElement.pdb
+D:\C#- level 2\94.commonElement\obj\Debug\net10.0\94.commonElement.genruntimeconfig.cache
+D:\C#- level 2\94.commonElement\obj\Debug\net10.0\ref\94.commonElement.dll
