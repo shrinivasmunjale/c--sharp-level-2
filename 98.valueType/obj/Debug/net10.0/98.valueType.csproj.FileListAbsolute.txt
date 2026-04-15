@@ -1,0 +1,15 @@
+D:\C#- level 2\98.valueType\bin\Debug\net10.0\98.valueType.exe
+D:\C#- level 2\98.valueType\bin\Debug\net10.0\98.valueType.deps.json
+D:\C#- level 2\98.valueType\bin\Debug\net10.0\98.valueType.runtimeconfig.json
+D:\C#- level 2\98.valueType\bin\Debug\net10.0\98.valueType.dll
+D:\C#- level 2\98.valueType\bin\Debug\net10.0\98.valueType.pdb
+D:\C#- level 2\98.valueType\obj\Debug\net10.0\98.valueType.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\98.valueType\obj\Debug\net10.0\98.valueType.AssemblyInfoInputs.cache
+D:\C#- level 2\98.valueType\obj\Debug\net10.0\98.valueType.AssemblyInfo.cs
+D:\C#- level 2\98.valueType\obj\Debug\net10.0\98.valueType.csproj.CoreCompileInputs.cache
+D:\C#- level 2\98.valueType\obj\Debug\net10.0\98.valueType.sourcelink.json
+D:\C#- level 2\98.valueType\obj\Debug\net10.0\98.valueType.dll
+D:\C#- level 2\98.valueType\obj\Debug\net10.0\refint\98.valueType.dll
+D:\C#- level 2\98.valueType\obj\Debug\net10.0\98.valueType.pdb
+D:\C#- level 2\98.valueType\obj\Debug\net10.0\98.valueType.genruntimeconfig.cache
+D:\C#- level 2\98.valueType\obj\Debug\net10.0\ref\98.valueType.dll
