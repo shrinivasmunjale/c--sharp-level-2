@@ -1,0 +1,15 @@
+D:\C#- level 2\96.duplicateEle\bin\Debug\net10.0\96.duplicateEle.exe
+D:\C#- level 2\96.duplicateEle\bin\Debug\net10.0\96.duplicateEle.deps.json
+D:\C#- level 2\96.duplicateEle\bin\Debug\net10.0\96.duplicateEle.runtimeconfig.json
+D:\C#- level 2\96.duplicateEle\bin\Debug\net10.0\96.duplicateEle.dll
+D:\C#- level 2\96.duplicateEle\bin\Debug\net10.0\96.duplicateEle.pdb
+D:\C#- level 2\96.duplicateEle\obj\Debug\net10.0\96.duplicateEle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\96.duplicateEle\obj\Debug\net10.0\96.duplicateEle.AssemblyInfoInputs.cache
+D:\C#- level 2\96.duplicateEle\obj\Debug\net10.0\96.duplicateEle.AssemblyInfo.cs
+D:\C#- level 2\96.duplicateEle\obj\Debug\net10.0\96.duplicateEle.csproj.CoreCompileInputs.cache
+D:\C#- level 2\96.duplicateEle\obj\Debug\net10.0\96.duplicateEle.sourcelink.json
+D:\C#- level 2\96.duplicateEle\obj\Debug\net10.0\96.duplicateEle.dll
+D:\C#- level 2\96.duplicateEle\obj\Debug\net10.0\refint\96.duplicateEle.dll
+D:\C#- level 2\96.duplicateEle\obj\Debug\net10.0\96.duplicateEle.pdb
+D:\C#- level 2\96.duplicateEle\obj\Debug\net10.0\96.duplicateEle.genruntimeconfig.cache
+D:\C#- level 2\96.duplicateEle\obj\Debug\net10.0\ref\96.duplicateEle.dll
