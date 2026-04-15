@@ -1,0 +1,15 @@
+D:\C#- level 2\97.span\bin\Debug\net10.0\97.span.exe
+D:\C#- level 2\97.span\bin\Debug\net10.0\97.span.deps.json
+D:\C#- level 2\97.span\bin\Debug\net10.0\97.span.runtimeconfig.json
+D:\C#- level 2\97.span\bin\Debug\net10.0\97.span.dll
+D:\C#- level 2\97.span\bin\Debug\net10.0\97.span.pdb
+D:\C#- level 2\97.span\obj\Debug\net10.0\97.span.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#- level 2\97.span\obj\Debug\net10.0\97.span.AssemblyInfoInputs.cache
+D:\C#- level 2\97.span\obj\Debug\net10.0\97.span.AssemblyInfo.cs
+D:\C#- level 2\97.span\obj\Debug\net10.0\97.span.csproj.CoreCompileInputs.cache
+D:\C#- level 2\97.span\obj\Debug\net10.0\97.span.sourcelink.json
+D:\C#- level 2\97.span\obj\Debug\net10.0\97.span.dll
+D:\C#- level 2\97.span\obj\Debug\net10.0\refint\97.span.dll
+D:\C#- level 2\97.span\obj\Debug\net10.0\97.span.pdb
+D:\C#- level 2\97.span\obj\Debug\net10.0\97.span.genruntimeconfig.cache
+D:\C#- level 2\97.span\obj\Debug\net10.0\ref\97.span.dll
