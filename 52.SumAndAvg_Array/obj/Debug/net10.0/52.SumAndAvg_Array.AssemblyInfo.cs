@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("52.SumAndAvg_Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16c8713e6b254e53c3d108417dc512a9c80373fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcfcce6f4ed18180d1ea8e16590a2936bacc6eb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("52.SumAndAvg_Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("52.SumAndAvg_Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
