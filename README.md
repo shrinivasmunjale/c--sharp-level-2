@@ -1,4 +1,4 @@
-# C# Level 2 – Arrays, Strings & Methods 💡
+# C# Level 2 – Arrays, Strings & Methods
 
 This repository focuses on problem-solving and reusable code using methods.
 
